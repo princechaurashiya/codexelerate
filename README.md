@@ -27,7 +27,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/princechaurashiya/codexelerate.git
-cd your-repo-name
+cd codexelerate
  ### 2.
  flutter pub get
  ### 3.
